@@ -2,7 +2,7 @@ TASK MANAGEMENT SYSTEM
 
 Description:
 
-Program task_manager.py is a task management system that allows the assignment and tracking of tasks between between users. 
+FinalCapstone is a task management system that allows the assignment and tracking of tasks between users. 
 
 By selecting options from the menu you can:-
 
